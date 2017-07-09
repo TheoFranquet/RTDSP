@@ -1,6 +1,4 @@
-/*************************************************************************************
-			       DEPARTMENT OF ELECTRICAL AND ELECTRONIC ENGINEERING
-					   		     IMPERIAL COLLEGE LONDON 
+
 
 /**************************** Pre-processor statements ******************************/
 //  library required when using calloc
